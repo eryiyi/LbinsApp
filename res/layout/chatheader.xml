@@ -8,7 +8,6 @@
     <RelativeLayout
             android:id="@+id/dating"
             android:layout_width="match_parent"
-            android:visibility="gone"
             android:layout_height="70dp"
             android:background="@drawable/find_item_select"
             android:duplicateParentState="true">

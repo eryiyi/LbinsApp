@@ -6,7 +6,6 @@ package com.liangxun.university.base;
 public class InternetURL {
 //    public static final String INTERNAL = "http://120.27.41.21:8070/";
     public static final String INTERNAL = "http://192.168.0.224:8080/";
-//    public static final String INTERNAL = "http://192.168.1.110:8080/";
     //多媒体文件上传接口
 //    public static final String UPLOAD_FILE = INTERNAL + "uploadImage.do";
 
